@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Learning\IIS_APPS\Gift\api</_PublishTargetUrl>
+    <History>True|2023-11-01T13:13:59.2681371Z;True|2023-11-01T15:03:12.1665060+02:00;True|2023-11-01T14:35:29.3911967+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

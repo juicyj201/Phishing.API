@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing2\\Phish\\webapi\\wwwroot\\dist\\assets\\index-0671c814.css",
+      "PackagePath": "staticwebassets\\dist\\assets\\index-0671c814.css"
+    },
+    {
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing2\\Phish\\webapi\\wwwroot\\dist\\assets\\index-48aa9ee7.js",
+      "PackagePath": "staticwebassets\\dist\\assets\\index-48aa9ee7.js"
+    },
+    {
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing2\\Phish\\webapi\\wwwroot\\dist\\assets\\presents1-b8ccda80.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\presents1-b8ccda80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing2\\Phish\\webapi\\wwwroot\\dist\\gift.png",
+      "PackagePath": "staticwebassets\\dist\\gift.png"
+    },
+    {
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing2\\Phish\\webapi\\wwwroot\\dist\\index.html",
+      "PackagePath": "staticwebassets\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing2\\Phish\\webapi\\wwwroot\\dist\\vite.svg",
+      "PackagePath": "staticwebassets\\dist\\vite.svg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.webapi.props",
+      "PackagePath": "build\\webapi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.webapi.props",
+      "PackagePath": "buildMultiTargeting\\webapi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.webapi.props",
+      "PackagePath": "buildTransitive\\webapi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
